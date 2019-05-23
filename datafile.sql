@@ -1,0 +1,1 @@
+alter tablespace primero datafile 'primero2.dbf' size 15m autoextend on next 1m maxsize 40m;
